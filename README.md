@@ -20,7 +20,7 @@ Contact: <garcia.alb@usp.br>
 
 ### **Germano Martins F. Costa Neto** 
 
-*Ph.D student at University of São Paulo (USP)
+Ph.D student at University of São Paulo (USP)
 
 Allogamous Plant Breeding Laboratory (ESALQ/USP)
 
