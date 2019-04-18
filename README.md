@@ -9,35 +9,38 @@ The user of this project may download the content present in the repositories of
 
 We are a group of graduate students in genetics and plant breeding (University of São Paulo).
 
-## **Ana Letycia B. Garcia** <garcia.alb@usp.br>
+### **Ana Letycia B. Garcia** 
 
-*Ph.D student at University of São Paulo (USP)
+Ph.D student at University of São Paulo (USP)
 
 Bioinformatics Applied to Bioenergy Laboratory (ESALQ/USP)
 
-_________________________________________________________________________
+Contact: <garcia.alb@usp.br>
 
-## **Germano Martins F. Costa Neto** <germano.cneto@usp.br>
+
+### **Germano Martins F. Costa Neto** 
 
 *Ph.D student at University of São Paulo (USP)
 
 Allogamous Plant Breeding Laboratory (ESALQ/USP)
 
-_________________________________________________________________________
+Contact: <germano.cneto@usp.br>
 
-## **Nathália Salgado Silva** <nathalia.salgado@usp.br>
+### **Nathália Salgado Silva**
 
-*Ph.D student at University of São Paulo (USP)
+Ph.D student at University of São Paulo (USP)
 
 Genetic Diversity and Plant Breeding Laboratory
 
-_________________________________________________________________________
+Contact:  <nathalia.salgado@usp.br>
 
-## **Rafael Massahiro Yassue** <rafael.yassue@usp.br>
+### **Rafael Massahiro Yassue** 
 
-*Ph.D student at University of São Paulo (USP)
+Ph.D student at University of São Paulo (USP)
 
 Allogamous Plant Breeding Laboratory (ESALQ/USP)
+
+Contact: <rafael.yassue@usp.br>
 
 
 
