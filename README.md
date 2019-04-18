@@ -5,7 +5,7 @@ This project aims to provide functions (codes in R), datasets and lectures for d
 The user of this project may download the content present in the repositories of this project.
 
 
-# Who are we
+# Who we are
 
 We are a group of graduate students in genetics and plant breeding (University of São Paulo).
 
