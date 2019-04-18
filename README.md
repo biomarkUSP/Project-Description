@@ -1,6 +1,6 @@
 # Project-Description
 
-This project aims to provide functions, datasets and lectures for didactic purposes of active learning in genomic statistics.
+This project aims to provide functions (codes in R), datasets and lectures for didactic purposes of active learning in statistical genomics.
 
 The user of this project may download the content present in the repositories of this project.
 
